@@ -12,7 +12,7 @@ Detecting jumps with a smartphone accelerometer is not a so easy task. Data comi
 
 The collected data can be found in the data folder and visualized in the boing [Jupyter](http://jupyter.org/) notebook in same folder. This is not accurate at all, and both the filtering technics and the collected data are not very exhaustive, but plays pretty well for most of cases and as an experiment is a funny app to have some good time with friend and at the same time, for regularly exercising :)
 
-[!Jump-it demo](/data/notebook1.png)
+![Jump-it demo](/data/notebook1.png)
 
 # Contribute
 
