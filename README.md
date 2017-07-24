@@ -2,7 +2,7 @@
 
 Hi there!, this is a little toy app for android devices I coded to have some fun with my little younger brother and ... to exercise my legs too ;) Take a look at the video below for a demo and start making boings, boings, boings ....
 
-[![Boing demo](/data/portrait.png)](https://www.youtube.com/watch?v=eh9Doe4HTFA "Boing demo")
+[![Boing demo](/data/portrait.png)](https://www.youtube.com/watch?v=3FTt_JJkiBg "Boing demo")
 
 If you liked it, you may download it from [here](https://github.com/Tsur/boing/releases/tag/1.0.0), or compile from sources with Android Studio.
 
