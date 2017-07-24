@@ -1,10 +1,10 @@
-# Jump It
+# Boing
 
 Hi there!, this is a little toy app for android devices I coded to have some fun with my little younger brother and ... to exercise my legs too ;) Take a look at the video below for a demo and start making boings, boings, boings ....
 
-[![Jump-it demo](/data/video.png)](https://www.youtube.com/watch?v=2foBptULL-w "Jump-it demo")
+[![Boing demo](/data/portrait.png)](https://www.youtube.com/watch?v=eh9Doe4HTFA "Boing demo")
 
-If you liked it, you may download it from [here](https://github.com/Tsur/jump-it/releases/tag/1.0.0), or compile from sources with Android Studio.
+If you liked it, you may download it from [here](https://github.com/Tsur/boing/releases/tag/1.0.0), or compile from sources with Android Studio.
 
 # How does it work ?
 
@@ -12,7 +12,7 @@ Detecting jumps with a smartphone accelerometer is not a so easy task. Data comi
 
 The collected data can be found in the data folder and visualized in the boing [Jupyter](http://jupyter.org/) notebook in same folder. This is not accurate at all, and both the filtering technics and the collected data are not very exhaustive, but plays pretty well for most of cases and as an experiment is a funny app to have some good time with friend and at the same time, for regularly exercising :)
 
-![Jump-it demo](/data/notebook1.png)
+![Boing notebook](/data/notebook1.png)
 
 # Contribute
 
